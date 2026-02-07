@@ -1,6 +1,6 @@
 # CODESOLVE, A leetcode like code solving and practicing platform.
 
-# Live Preview :-
+# 🌐 Live Preview
 https://leetcode-frontend-nine.vercel.app/
 
 <img src="./ThumbNail3.png"/>
