@@ -13,7 +13,7 @@ require('dotenv').config(); // Load environment variables
 const app = express();
 
 app.use(cors({
-    origin: "https://leetcode-frontend-nine.vercel.app",
+    origin:"http://localhost:5173",
     credentials: true
 }));
 
